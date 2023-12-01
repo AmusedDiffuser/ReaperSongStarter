@@ -1,5 +1,7 @@
 # Reaper Song Starter and Structure Blocking Script
 
+## *NOTE: initial release of untested AI generated code, use at your own risk.*
+
 This script is a tool for creating a basic song structure with tracks, regions, and items in Reaper DAW.
 
 ## Table of Contents
